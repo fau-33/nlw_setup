@@ -32,7 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para rastrear os hábitos. 
+O Habits é um app para rastrear os hábitos.
+
+- [Visite o projeto online](https://fau-33.github.io/nlw_setup)
 
 ## 🔖 Layout
 
